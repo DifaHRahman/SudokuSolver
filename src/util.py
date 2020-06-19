@@ -1,5 +1,9 @@
 """
 Read/Write Sudoku Module
+13518098
+- Reads Sudoku from a text file ../test/ folder
+- Writes Sudoku to a text file in ../result/ folder
+- (WIP) Reads Sudoku from an image file in ../test/ folder
 """
 import os.path
 import sudoku
